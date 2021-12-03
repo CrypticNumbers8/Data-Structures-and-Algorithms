@@ -1,8 +1,8 @@
 import random
 
-n = 10^6
+n = 10^7
 
-sample = ['A']*5200000 + ['B']*4800000
+sample = ['A']*52000000 + ['B']*48000000
 
 result_count = []
 
